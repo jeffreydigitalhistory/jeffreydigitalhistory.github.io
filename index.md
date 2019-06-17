@@ -1,10 +1,6 @@
-<html>
-<head>
-</head>
+---
+title: Home page
+layout: default
+---
 
-<body>
-Testing website!
-</body>
-
-
-</html>
+Here is my home page.
