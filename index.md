@@ -3,4 +3,4 @@ title: Home page
 layout: default
 ---
 
-Here is my home page.
+This is my home page!
