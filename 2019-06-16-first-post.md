@@ -1,6 +1,6 @@
 ---
-title: This is my title
+title: Capstone post 
 layout: default
 ---
 
-Here is my page.
+2019-06-16-first-post.md
